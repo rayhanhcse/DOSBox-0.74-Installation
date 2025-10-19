@@ -3,9 +3,9 @@
 
 ## Download DOSBox Software:
 
-    ``` bash 
-    https://drive.google.com/file/d/1F2iNuEohlAo-mcHpcA-Pcxxs7orn5aRb/view 
-    ```
+   ```bash 
+      https://drive.google.com/file/d/1F2iNuEohlAo-mcHpcA-Pcxxs7orn5aRb/view
+ ```
 - Extract rar folder using Winrar
 - After that install dosbox software.
 - Finally copy the prolog folder  in your  c:\ or d:\ directory.
